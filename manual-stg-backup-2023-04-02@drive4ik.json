@@ -1,0 +1,211 @@
+{
+    "version": "4.8.1",
+    "groups": [
+        {
+            "id": 1,
+            "title": "Main",
+            "iconColor": "#ff0000",
+            "iconUrl": null,
+            "iconViewType": "old-tab-groups",
+            "tabs": [
+                {
+                    "url": "https://github.com/paugarcia32/firefox-config",
+                    "title": "paugarcia32/firefox-config",
+                    "id": 8,
+                    "favIconUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNiAwQzcuMTYgMCAwIDcuMTYgMCAxNkMwIDIzLjA4IDQuNTggMjkuMDYgMTAuOTQgMzEuMThDMTEuNzQgMzEuMzIgMTIuMDQgMzAuODQgMTIuMDQgMzAuNDJDMTIuMDQgMzAuMDQgMTIuMDIgMjguNzggMTIuMDIgMjcuNDRDOCAyOC4xOCA2Ljk2IDI2LjQ2IDYuNjQgMjUuNTZDNi40NiAyNS4xIDUuNjggMjMuNjggNSAyMy4zQzQuNDQgMjMgMy42NCAyMi4yNiA0Ljk4IDIyLjI0QzYuMjQgMjIuMjIgNy4xNCAyMy40IDcuNDQgMjMuODhDOC44OCAyNi4zIDExLjE4IDI1LjYyIDEyLjEgMjUuMkMxMi4yNCAyNC4xNiAxMi42NiAyMy40NiAxMy4xMiAyMy4wNkM5LjU2IDIyLjY2IDUuODQgMjEuMjggNS44NCAxNS4xNkM1Ljg0IDEzLjQyIDYuNDYgMTEuOTggNy40OCAxMC44NkM3LjMyIDEwLjQ2IDYuNzYgOC44MiA3LjY0IDYuNjJDNy42NCA2LjYyIDguOTggNi4yIDEyLjA0IDguMjZDMTMuMzIgNy45IDE0LjY4IDcuNzIgMTYuMDQgNy43MkMxNy40IDcuNzIgMTguNzYgNy45IDIwLjA0IDguMjZDMjMuMSA2LjE4IDI0LjQ0IDYuNjIgMjQuNDQgNi42MkMyNS4zMiA4LjgyIDI0Ljc2IDEwLjQ2IDI0LjYgMTAuODZDMjUuNjIgMTEuOTggMjYuMjQgMTMuNCAyNi4yNCAxNS4xNkMyNi4yNCAyMS4zIDIyLjUgMjIuNjYgMTguOTQgMjMuMDZDMTkuNTIgMjMuNTYgMjAuMDIgMjQuNTIgMjAuMDIgMjYuMDJDMjAuMDIgMjguMTYgMjAgMjkuODggMjAgMzAuNDJDMjAgMzAuODQgMjAuMyAzMS4zNCAyMS4xIDMxLjE4QzI3LjQyIDI5LjA2IDMyIDIzLjA2IDMyIDE2QzMyIDcuMTYgMjQuODQgMCAxNiAwVjBaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K"
+                },
+                {
+                    "url": "https://paugarcia32.github.io/startpage-V2/",
+                    "title": "Nueva Pestaña",
+                    "id": 5
+                },
+                {
+                    "url": "moz-extension://f41bac23-49d0-4ea3-b236-2055b0a1881b/manage/manage.html",
+                    "title": "Administrar grupos",
+                    "id": 6,
+                    "favIconUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxnIGZpbGw9ImNvbnRleHQtZmlsbCIgZmlsbC1vcGFjaXR5PSJjb250ZXh0LWZpbGwtb3BhY2l0eSI+CiAgICAgICAgPHJlY3QgaGVpZ2h0PSIzMiIgd2lkdGg9IjMyIiAvPgogICAgICAgIDxyZWN0IGhlaWdodD0iMzIiIHdpZHRoPSIzMiIgeD0iNDgiIC8+CiAgICAgICAgPHJlY3QgaGVpZ2h0PSIzMiIgd2lkdGg9IjMyIiB4PSI5NiIgeT0iNDgiIC8+CiAgICAgICAgPHJlY3QgaGVpZ2h0PSIzMiIgd2lkdGg9IjMyIiB5PSI0OCIgLz4KICAgICAgICA8cmVjdCBoZWlnaHQ9IjMyIiB3aWR0aD0iMzIiIHg9IjQ4IiB5PSI0OCIgLz4KICAgICAgICA8cmVjdCBoZWlnaHQ9IjMyIiB3aWR0aD0iMzIiIHg9Ijk2IiAvPgogICAgICAgIDxyZWN0IGhlaWdodD0iMzIiIHdpZHRoPSIzMiIgeT0iOTYiIC8+CiAgICAgICAgPHJlY3QgaGVpZ2h0PSIzMiIgd2lkdGg9IjMyIiB4PSI0OCIgeT0iOTYiIC8+CiAgICAgICAgPHJlY3QgaGVpZ2h0PSIzMiIgd2lkdGg9IjMyIiB4PSI5NiIgeT0iOTYiIC8+CiAgICAgICAgPHBhdGggdHJhbnNmb3JtPSJyb3RhdGUoLTkwLCA3MywgNzEpIiBmaWxsPSJ0cmFuc3BhcmVudCIgZD0ibTE2LjAwMDM1MSwxMjYuMDAxNTI3bDAsLTExMC4wMDAwMDNsMTA4Ljk5OTI4NSwxMTAuMDAwMDAzbC0xMDguOTk5Mjg1LDB6Ii8+CiAgICA8L2c+Cjwvc3ZnPgo="
+                },
+                {
+                    "url": "moz-extension://f41bac23-49d0-4ea3-b236-2055b0a1881b/options/options.html",
+                    "title": "Configuración",
+                    "id": 13,
+                    "favIconUrl": "data:image/svg+xml;base64,PCEtLSBUaGlzIFNvdXJjZSBDb2RlIEZvcm0gaXMgc3ViamVjdCB0byB0aGUgdGVybXMgb2YgdGhlIE1vemlsbGEgUHVibGljCiAgIC0gTGljZW5zZSwgdi4gMi4wLiBJZiBhIGNvcHkgb2YgdGhlIE1QTCB3YXMgbm90IGRpc3RyaWJ1dGVkIHdpdGggdGhpcwogICAtIGZpbGUsIFlvdSBjYW4gb2J0YWluIG9uZSBhdCBodHRwOi8vbW96aWxsYS5vcmcvTVBMLzIuMC8uIC0tPgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiPgogICAgPHBhdGggZmlsbD0iY29udGV4dC1maWxsIiBmaWxsLW9wYWNpdHk9ImNvbnRleHQtZmlsbC1vcGFjaXR5IiBkPSJNMTUgN2gtMi4xYTQuOTY3IDQuOTY3IDAgMCAwLS43MzItMS43NTNsMS40OS0xLjQ5YTEgMSAwIDAgMC0xLjQxNC0xLjQxNGwtMS40OSAxLjQ5QTQuOTY4IDQuOTY4IDAgMCAwIDkgMy4xVjFhMSAxIDAgMCAwLTIgMHYyLjFhNC45NjggNC45NjggMCAwIDAtMS43NTMuNzMybC0xLjQ5LTEuNDlhMSAxIDAgMCAwLTEuNDE0IDEuNDE1bDEuNDkgMS40OUE0Ljk2NyA0Ljk2NyAwIDAgMCAzLjEgN0gxYTEgMSAwIDAgMCAwIDJoMi4xYTQuOTY4IDQuOTY4IDAgMCAwIC43MzcgMS43NjNjLS4wMTQuMDEzLS4wMzIuMDE3LS4wNDUuMDNsLTEuNDUgMS40NWExIDEgMCAxIDAgMS40MTQgMS40MTRsMS40NS0xLjQ1Yy4wMTMtLjAxMy4wMTgtLjAzMS4wMy0uMDQ1QTQuOTY4IDQuOTY4IDAgMCAwIDcgMTIuOVYxNWExIDEgMCAwIDAgMiAwdi0yLjFhNC45NjggNC45NjggMCAwIDAgMS43NTMtLjczMmwxLjQ5IDEuNDlhMSAxIDAgMCAwIDEuNDE0LTEuNDE0bC0xLjQ5LTEuNDlBNC45NjcgNC45NjcgMCAwIDAgMTIuOSA5SDE1YTEgMSAwIDAgMCAwLTJ6TTUgOGEzIDMgMCAxIDEgMyAzIDMgMyAwIDAgMS0zLTN6IiAvPgo8L3N2Zz4K"
+                }
+            ],
+            "isArchive": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isMain": true,
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToMainIfNotInCatchTabRules": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false,
+            "bookmarkId": null,
+            "showOnlyActiveTabAfterMovingItIntoThisGroup": false
+        },
+        {
+            "id": 2,
+            "title": "Extra",
+            "iconColor": "#9900ff",
+            "iconUrl": null,
+            "iconViewType": "old-tab-groups",
+            "tabs": [
+                {
+                    "url": "https://mail.google.com/mail/u/0/#inbox",
+                    "title": "Recibidos - paugarcia32@gmail.com - Gmail",
+                    "id": 2,
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABSklEQVR4AWIYeHDbQK3+poEqoNZxhg4liqLo+2i/UU/zzdi23URdbNt2nSpl7CZ20sS2bRs3c5O82Dhr7fHea+Y7/39Nb//PMOSGrRcTZrvgZTELbBe+9CGsDJQ+3h/90+Lc4lfJ+G4t9n0/ykfMnwn08/2CKSkemJbk9bkgS3P74LuVmM8oHkOi9SLPByjF4/L/GQSv8dn5QETmfyCSQStg6FQLVUJi5wNIP0LvaWAo9zUYp4oBd4LWYQDRce+CDE2LMwHKgocdbNXXwnZnO6xNtW53zPVA2WgN2JYF0wBlNW5Smtv3fGCzqvxAJoQc0zbXCzVTLRcDhN2UOM//ScmTX9/p7dlAiV3NyMrENMo0cmkANy7Oz0xLcadPSXEXw+5u/Z0C54fi0wUkglaK7xvoWxxeIrcYmsU0gtAYS9ZtA8os2UcSBaMq+ymctw8G2V0kAAAAAElFTkSuQmCC"
+                },
+                {
+                    "url": "https://mail.google.com/mail/u/1/#inbox",
+                    "title": "Recibidos - lincal.pau@gmail.com - Gmail",
+                    "id": 3,
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABSklEQVR4AWIYeHDbQK3+poEqoNZxhg4liqLo+2i/UU/zzdi23URdbNt2nSpl7CZ20sS2bRs3c5O82Dhr7fHea+Y7/39Nb//PMOSGrRcTZrvgZTELbBe+9CGsDJQ+3h/90+Lc4lfJ+G4t9n0/ykfMnwn08/2CKSkemJbk9bkgS3P74LuVmM8oHkOi9SLPByjF4/L/GQSv8dn5QETmfyCSQStg6FQLVUJi5wNIP0LvaWAo9zUYp4oBd4LWYQDRce+CDE2LMwHKgocdbNXXwnZnO6xNtW53zPVA2WgN2JYF0wBlNW5Smtv3fGCzqvxAJoQc0zbXCzVTLRcDhN2UOM//ScmTX9/p7dlAiV3NyMrENMo0cmkANy7Oz0xLcadPSXEXw+5u/Z0C54fi0wUkglaK7xvoWxxeIrcYmsU0gtAYS9ZtA8os2UcSBaMq+ymctw8G2V0kAAAAAElFTkSuQmCC"
+                },
+                {
+                    "url": "https://meet.google.com/?hs=197&authuser=1&pli=1",
+                    "title": "Google Meet",
+                    "id": 4,
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABzklEQVR4AWMgC4yCVy7GNj83c174vYflP5F48//9DDxEG/7K2ezzj1Xcj0mw4P+vPazpRBv+ytn0/49F/F9IseD3XpZ6kBkO+x1YjFcGd5ssD0rGaTjYgiV870i1wHhZpIjJiuD9QPwfhLEaDsM/13PeIMWCOzsFJhqvCL4PMhjDAv+GZ5cD6p9+Cq29/yuw/vFX78ZXr/u6p4R938+hgA3/3s3Sj2z4mQ38dyzmuh6AGoxpgVPrl/tA/B8ZO7Z9tscVV6DggBk+YYHMd4kGi/9aMz3PU9WCn7tZfmZNU/kDMhyENaa736eaBec38tX79Op+AxkMw+pT3d5TzQLtWV41Mq3WX2lmgcnKIGCSDHov22mHHEQPqWoByADjFUE/lHodwZGsOcP9Mk4L7Fs+n3Vo/vjOrunDN/umjx8dmz8/t+075G+xPEABGzZZEdKPZBDI9be0Z3kexmmBZPql+0D8HxkbLky8hlBMGBstDZoHpH8TbYH+nKzXpFgAjpdVoTYmK4JeE2WB3qy8r6RaADLLeFmwBpB/HVQmwS2QSLt0G8MHczOfk2KB6YrgfJh5DvMTOEA0kg8u5gMN/Y4SB4sSrpJgwWVQScpADhgFABJn8TdjuI5OAAAAAElFTkSuQmCC"
+                }
+            ],
+            "isArchive": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isMain": false,
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToMainIfNotInCatchTabRules": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false,
+            "bookmarkId": null,
+            "showOnlyActiveTabAfterMovingItIntoThisGroup": false
+        }
+    ],
+    "lastCreatedGroupPosition": 2,
+    "discardTabsAfterHide": false,
+    "discardAfterHideExcludeAudioTabs": false,
+    "closePopupAfterChangeGroup": true,
+    "closePopupAfterSelectTab": false,
+    "openGroupAfterChange": false,
+    "alwaysAskNewGroupName": true,
+    "prependGroupTitleToWindowTitle": false,
+    "createNewGroupWhenOpenNewWindow": false,
+    "openManageGroupsInTab": true,
+    "showConfirmDialogBeforeGroupArchiving": true,
+    "showConfirmDialogBeforeGroupDelete": true,
+    "showNotificationAfterGroupDelete": true,
+    "showContextMenuOnTabs": true,
+    "showContextMenuOnLinks": true,
+    "exportGroupToMainBookmarkFolder": true,
+    "defaultBookmarksParent": "toolbar_____",
+    "leaveBookmarksOfClosedTabs": false,
+    "showExtendGroupsPopupWithActiveTabs": false,
+    "showTabsWithThumbnailsInManageGroups": false,
+    "fullPopupWidth": false,
+    "temporaryContainerTitle": "⌚Contenedor Temporal",
+    "contextMenuTab": [
+        "open-in-new-window",
+        "reload",
+        "discard",
+        "remove",
+        "update-thumbnail",
+        "set-group-icon",
+        "move-tab-to-group"
+    ],
+    "contextMenuGroup": [
+        "open-in-new-window",
+        "sort-asc",
+        "sort-desc",
+        "discard",
+        "discard-other",
+        "export-to-bookmarks",
+        "unload",
+        "archive",
+        "rename",
+        "reload-all-tabs"
+    ],
+    "defaultGroupIconViewType": "main-squares",
+    "defaultGroupIconColor": "",
+    "autoBackupEnable": true,
+    "autoBackupLastBackupTimeStamp": 1680440498,
+    "autoBackupIntervalKey": "days",
+    "autoBackupIntervalValue": 1,
+    "autoBackupIncludeTabThumbnails": true,
+    "autoBackupIncludeTabFavIcons": true,
+    "autoBackupGroupsToBookmarks": true,
+    "autoBackupGroupsToFile": true,
+    "autoBackupFolderName": "STG-backups-FF-111.0.1",
+    "autoBackupByDayIndex": true,
+    "theme": "auto",
+    "hotkeys": [
+        {
+            "ctrlKey": false,
+            "shiftKey": false,
+            "altKey": true,
+            "metaKey": false,
+            "key": "L",
+            "keyCode": 76,
+            "action": "load-next-group",
+            "groupId": 0
+        },
+        {
+            "ctrlKey": false,
+            "shiftKey": false,
+            "altKey": true,
+            "metaKey": false,
+            "key": "H",
+            "keyCode": 72,
+            "action": "load-prev-group",
+            "groupId": 0
+        },
+        {
+            "ctrlKey": false,
+            "shiftKey": false,
+            "altKey": true,
+            "metaKey": false,
+            "key": "W",
+            "keyCode": 87,
+            "action": "delete-current-group",
+            "groupId": 0
+        },
+        {
+            "ctrlKey": false,
+            "shiftKey": false,
+            "altKey": true,
+            "metaKey": false,
+            "key": "T",
+            "keyCode": 84,
+            "action": "add-new-group",
+            "groupId": 0
+        },
+        {
+            "ctrlKey": false,
+            "shiftKey": false,
+            "altKey": true,
+            "metaKey": false,
+            "key": "Enter",
+            "keyCode": 13,
+            "action": "open-manage-groups",
+            "groupId": 0
+        },
+        {
+            "ctrlKey": false,
+            "shiftKey": false,
+            "altKey": true,
+            "metaKey": false,
+            "key": "1",
+            "keyCode": 49,
+            "action": "move-selected-tabs-to-custom-group",
+            "groupId": 0
+        }
+    ],
+    "containers": {}
+}
