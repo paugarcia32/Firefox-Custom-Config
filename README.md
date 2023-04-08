@@ -2,12 +2,38 @@
 
 Here I will put all my firefox configuration
 
-
-## Bitwarden shortcuts
-
-![image](https://user-images.githubusercontent.com/37461446/229364540-25cc1f9e-fb20-40f8-93e6-c2192569bcc1.png)
+# Key bandings
 
 
-## Simple Tab Group
+## Simple Tab Group Commands
+| Command     | Description                             |
+| ----------- | --------------------------------------- |
+| Alt + L     | Next Tab Group                          |
+| Alt + H     | Previous Tab Group                      |
+| Alt + W     | Delete Actual Group                     |
+| Alt + T     | Create New Group                        |
+| Alt + 1     | Move actual windows to a specific group |
+| Alt + Enter | Open Configuration                      | 
 
-![image](https://user-images.githubusercontent.com/37461446/229364665-651cb8b0-1086-4a80-9d42-5587184bea66.png)
+
+## Bitwarden Commands
+
+| Command   | Description |
+| --------- | ----------- |
+| Alt   + K | Autofill    |
+| Alt + J   | Open Vault  |
+
+## Simple Translate Commands
+
+| Command         | Description                              |
+| --------------- | ---------------------------------------- |
+| Alt + C         | Translate selected text                  |
+| Alt + Shift + C | Translate selected text in extension div |
+
+## Dark Reader
+
+| Command         | Description                                  |
+| --------------- | -------------------------------------------- |
+| Alt + Shift + D | Switch between Day/Night mode                |
+| Alt + Shift + A | Switch between Day/Night mode in current tab |
+
