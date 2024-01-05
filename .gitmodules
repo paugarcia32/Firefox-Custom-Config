@@ -1,0 +1,6 @@
+[submodule "FirefoxCSS"]
+	path = FirefoxCSS
+	url = https://github.com/paugarcia32/FirefoxCSS.git
+[submodule "startpage"]
+	path = startpage
+	url = https://github.com/paugarcia32/startpage.git
